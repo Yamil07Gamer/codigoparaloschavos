@@ -9,8 +9,8 @@ ejecuta el WSL y llega a la carpeta raiz de "C" con cd ..
 
 2.- Entrar al entorno vitual que se hizo al inicio de semestre:
 
-debido a que este no me dio probremas a diferencia del de mitad de semestre ya que me faltaba uvicorn y no me dejaba instalarlo
-si aun no tienes tu entorno ejecuta estos comandos en orden
+Debido a que este no me dio problemas a diferencia del de mitad de semestre ya que me faltaba uvicorn y no me dejaba instalarlo
+recomiendo usar el entorno vitual que se hizo al inicio del semestre, si aun no tienes tu entorno ejecuta estos comandos en orden
 
   python3 -m venv .[nombre de tu entorno]
   source [nombre del entorno]/bin/activate
@@ -34,6 +34,10 @@ Si no sale error ya estas del otro lado, si no
   3.- Que tu base de datos exista
 
   4.- Que las tablas y atributos coincidan en el archvo "/models/queries" en la insercion y busqueda de datos coincidan en nombre
+
+En la terminal si exite un error al inicar el uvicorn app.main:app --reload te dira el error de maneta mas clara, al igual si hay un problema con la base de datos.
+
+Mucha suerte con el examen de mañana :)
 
   5.- No se ya deberia de funcionar XDXDXD
 
