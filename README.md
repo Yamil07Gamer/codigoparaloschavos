@@ -12,9 +12,9 @@ ejecuta el WSL y llega a la carpeta raiz de "C" con cd ..
 Debido a que este no me dio problemas a diferencia del de mitad de semestre ya que me faltaba uvicorn y no me dejaba instalarlo
 recomiendo usar el entorno vitual que se hizo al inicio del semestre, si aun no tienes tu entorno ejecuta estos comandos en orden
 
-  python3 -m venv .[nombre de tu entorno]
-  source [nombre del entorno]/bin/activate
-  pip install fastapi uvicorn[standard] mysql-connector-python
+python3 -m venv .[nombre de tu entorno]
+source [nombre del entorno]/bin/activate
+pip install fastapi uvicorn[standard] mysql-connector-python
 
 3.- Descargar app:
 
