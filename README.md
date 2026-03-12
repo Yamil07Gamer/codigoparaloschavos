@@ -37,7 +37,9 @@ Si no sale error ya estas del otro lado, si no
 
   4.- Que las tablas y atributos coincidan en el archvo "/models/queries" en la insercion y busqueda de datos coincidan en nombre
 
-  5.- No se ya deberia de funcionar XDXDXD
+  5.- Ejecuta "ip a" en el entorno vitual para forzar la coneccion del mysql con el wsl
+
+  6.- No se ya deberia de funcionar XDXDXD
 
 Si todo esta en orden al copiar y pegar en el firefox la direccion IP que te suelta uvicorn y agragar "/docs", deberian aparecer los endpoints del programa
 En la terminal si exite un error al inicar el "uvicorn app.main:app --reload" te dira el error de maneta muy clara, al igual si hay un problema con la base de datos, solo leelo en ingles lit te lo dice en la cara.
