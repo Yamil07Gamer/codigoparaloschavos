@@ -35,10 +35,9 @@ Si no sale error ya estas del otro lado, si no
 
   4.- Que las tablas y atributos coincidan en el archvo "/models/queries" en la insercion y busqueda de datos coincidan en nombre
 
-En la terminal si exite un error al inicar el uvicorn app.main:app --reload te dira el error de maneta mas clara, al igual si hay un problema con la base de datos.
-
-Mucha suerte con el examen de mañana :)
-
   5.- No se ya deberia de funcionar XDXDXD
 
-Si todo esta en orden al copiar y pegar en el firefox la direccion IP que te suelta uvicorn y agragar "/docs", deberian aparecer los endpoints del programa  
+Si todo esta en orden al copiar y pegar en el firefox la direccion IP que te suelta uvicorn y agragar "/docs", deberian aparecer los endpoints del programa
+En la terminal si exite un error al inicar el "uvicorn app.main:app --reload" te dira el error de maneta muy clara, al igual si hay un problema con la base de datos, solo leelo en ingles lit te lo dice en la cara.
+
+Mucha suerte con el examen de mañana :)
