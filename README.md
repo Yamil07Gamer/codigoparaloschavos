@@ -41,7 +41,7 @@ Si no sale error ya estas del otro lado, si no
 
   6.- No se ya deberia de funcionar XDXDXD
 
-Si todo esta en orden al copiar y pegar en el firefox la direccion IP que te suelta uvicorn y agragar "/docs", deberian aparecer los endpoints del programa
-En la terminal si exite un error al inicar el "uvicorn app.main:app --reload" te dira el error de maneta muy clara, al igual si hay un problema con la base de datos, solo leelo en ingles lit te lo dice en la cara.
+Si todo esta en orden al copiar y pegar en el firefox la direccion IP que te suelta uvicorn y agragar "/docs", deberian aparecer los endpoints del programa.
+En la terminal si exite un error al inicar el "uvicorn app.main:app --reload" te dira el error de maneta muy clara, al igual si hay un problema con la base de datos y entre otros, solo leelo esta ingles lit te lo dice en la cara no seas flojo.
 
 Mucha suerte con el examen de mañana :)
